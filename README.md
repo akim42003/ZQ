@@ -11,6 +11,11 @@ ZQ is a Python-based accessible text editor that allows you to control a documen
 - **Voice Control:** All commands are accessible through voice input.
 - **Interface:** Clean and user-friendly interface with a focus on functionality. High-contrast colors used to allow for color-blind accessibility.
 
+## Build or Run file
+
+- Run file via "python srtest.py" in command line.
+- Build with pyinstaller to specified location.
+
 ## Usage
 
 Use the GUI to edit your text file or use the following voice commands:
