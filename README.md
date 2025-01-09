@@ -40,49 +40,6 @@ Use the GUI to edit your text file or use the following voice commands:
 - "ZQ go to line [line number]"
 - "ZQ go to word [word]"
 
-## Installation
-
-To install ZQ, follow these steps:
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/ZQ-TextEditor.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd ZQ-TextEditor
-   ```
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-## Running the Application
-
-To run the ZQ text editor, use the following command:
-```
-python zq_text_editor.py
-```
-
-## Contributing
-
-We welcome contributions to ZQ. If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```
-   git checkout -b feature-branch
-   ```
-3. Make your changes and commit them:
-   ```
-   git commit -m "Description of changes"
-   ```
-4. Push to the branch:
-   ```
-   git push origin feature-branch
-   ```
-5. Create a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
